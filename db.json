@@ -13,6 +13,32 @@
       "id": 4
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "7a03",
+      "userId": 1,
+      "title": "Tasty Soft Gloves"
+    },
+    {
+      "id": "7e94",
+      "userId": 3,
+      "title": "Ergonomic Bronze Chair"
+    },
+    {
+      "id": "1a17",
+      "userId": 4,
+      "title": "Fantastic Rubber Chicken"
+    },
+    {
+      "id": "f05a",
+      "userId": 4,
+      "title": "Elegant Granite Shirt"
+    },
+    {
+      "id": "b083",
+      "userId": 1,
+      "title": "Tasty Steel Pants"
+    }
+  ],
   "photos": []
 }
