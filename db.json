@@ -1,16 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     }
   ],
   "albums": [
@@ -38,7 +38,43 @@
       "id": "b083",
       "userId": 1,
       "title": "Tasty Steel Pants"
+    },
+    {
+      "id": "834e",
+      "userId": 1,
+      "title": "Handmade Metal Hat"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "02d1",
+      "albumId": "7a03",
+      "url": "https://loremflickr.com/150/150/abstract?lock=80881"
+    },
+    {
+      "id": "89e7",
+      "albumId": "b083",
+      "url": "https://loremflickr.com/150/150/abstract?lock=20421"
+    },
+    {
+      "id": "26c3",
+      "albumId": "7a03",
+      "url": "https://loremflickr.com/150/150/abstract?lock=12298"
+    },
+    {
+      "id": "b96a",
+      "albumId": "b083",
+      "url": "https://loremflickr.com/150/150/abstract?lock=9580"
+    },
+    {
+      "id": "bc7c",
+      "albumId": "b083",
+      "url": "https://loremflickr.com/150/150/abstract?lock=77122"
+    },
+    {
+      "id": "6447",
+      "albumId": "b083",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40661"
+    }
+  ]
 }
